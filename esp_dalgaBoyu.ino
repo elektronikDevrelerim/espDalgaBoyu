@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "CELEP";
-const char* password = "62156160:Celep";
+const char* ssid = "Buraya Kendi WiFi Adınız";
+const char* password = "Buraya Kendi WiFi Şifreniz";
 const char* mqtt_server = "broker.hivemq.com";
 
 #include <Wire.h>
